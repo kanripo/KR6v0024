@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:11.376947
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:07
 #+TITLE: 天竺國菩提達摩禪師論
 #+PROPERTY: CBETA_ID W02n0018a
 #+PROPERTY: ID KR6v0024
@@ -11,7 +11,7 @@
 #+PROPERTY: JUAN 1
 ¶
 
-題解¶
+* 題解¶
 整理者　方廣錩¶
 ¶
 
@@ -31,7 +31,7 @@
 2039號校勘。¶
 ¶
 
-錄文一¶
+* 錄文一¶
 
  天竺國菩提達摩禪師論一卷¶
 ¶
